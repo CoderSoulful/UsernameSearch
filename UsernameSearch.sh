@@ -1,3 +1,4 @@
+clear
 trap 'printf "\n";partial;exit 1' 2
 
 
