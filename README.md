@@ -8,7 +8,7 @@ apt upgrade<br>
 apt install git<br>
 apt install curl<br>
 apt install jq<br>
-git clone https://github.com/CoderSoulful/UsernameSearch/<br><br>
+git clone https://github.com/CoderSoulful/Username-Search-Tool-On-Web-For-Free-Termux-Kali-Linux-Ubuntu<br><br>
 
 Start:<br>
 cd UsernameSearch<br>
